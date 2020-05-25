@@ -1,0 +1,8 @@
+step 1:
+CREATE DATABASE articleapi;
+
+step 2:
+Run this after creating the database;
+rails db:migrate RAILS_ENV=development
+
+step 3:
